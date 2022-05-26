@@ -9,7 +9,7 @@ Rajashekar-582/Rajashekar-582 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashekar-582&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Rajashekar-582)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekar-582&layout=compact)](https://github.com/Rajashekar-582)
 
 ![GitHub Stats](https://img.shields.io/static/v1?label=Rajashekar&message=Nerella&color=<COLOR>)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 [1]: http://www.twitter.com/Rajashekar_82?t=V8Re32UZnDa_j53JbJ8JPw&s=09
 [2]: http://www.facebook.com/rajashekar.nerella.16
-[3]: http://www.github.com/carlsednaoui
+[3]: http://www.github.com/Rajashekar-582
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
