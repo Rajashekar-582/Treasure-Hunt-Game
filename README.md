@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Rajashekar-582
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Rajashekar</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajashekar-582&label=Profile%20views&color=129e00&style=plastic" alt="Rajashekar-582" /> </p>
 
 <!---
 Rajashekar-582/Rajashekar-582 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,3 +45,5 @@ You can click the Preview link to take a look at your changes.
 [3]: http://www.github.com/Rajashekar-582
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<a href="https://linkedin.com/in/nerellarajashekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/_shekar_nerella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
