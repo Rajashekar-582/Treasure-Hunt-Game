@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashekar-582&theme=radical)
 
-![GitHub Stats](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![GitHub Stats](https://img.shields.io/static/v1?label=<Rajashekar>&message=<Nerella>&color=<COLOR>)
