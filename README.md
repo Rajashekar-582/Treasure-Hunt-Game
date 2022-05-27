@@ -7,7 +7,7 @@ Rajashekar-582/Rajashekar-582 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajashekar-582&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekar-&layout=compact)](https://github.com/Rajashekar-582)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashekar-582&layout=compact)](https://github.com/Rajashekar-582)
 
 ![GitHub Stats](https://img.shields.io/static/v1?label=Rajashekar&message=Nerella&color=<COLOR>)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
